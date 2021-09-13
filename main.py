@@ -16,10 +16,10 @@ I am a pypi package search telegram bot.
 - Send a pypi package name.
 - I will send the information of package.
 
-Made by @FayasNoushad
+Made by @FZBOTS
 """
 
-BUTTONS = [InlineKeyboardButton('⚙ Join Updates Channel ⚙', url='https://telegram.me/FayasNoushad')]
+BUTTONS = [InlineKeyboardButton('⚙ Join Updates Channel ⚙', url='https://telegram.me/FZBOTS')]
 
 Bot = Client(
     "PyPi-Bot",
